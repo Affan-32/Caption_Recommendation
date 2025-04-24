@@ -1,0 +1,7 @@
+streamlit
+transformers>=4.9.0
+scikit-learn
+torch
+Pillow
+numpy
+openpyxl
